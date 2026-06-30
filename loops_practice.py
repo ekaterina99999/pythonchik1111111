@@ -13,3 +13,5 @@ for n in numbers:
 # --- Задача 2: Список строк ---
 for word in words:
     print(word)
+
+
